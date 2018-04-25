@@ -8,4 +8,5 @@ int main()
     login u1;
     u1.setusername(a);
     u1.setpass(b);
+    system("pause");
 }
